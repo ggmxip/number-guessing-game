@@ -2,4 +2,5 @@
 voidmain()
 {
     printf("Hello wrld");
+    return 0;
 }
